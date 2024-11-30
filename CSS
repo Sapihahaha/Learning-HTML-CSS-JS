@@ -1,0 +1,18 @@
+h1 {
+    background: linear-gradient(to right , lightblue , lightgreen);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+p {
+    font-size: 20px;
+    background: linear-gradient(to right , lightblue , lightgreen);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+body {
+    background-image: url("myImage.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: top;
+    background-size:cover;
+}
